@@ -4,7 +4,7 @@
 Welcome to RetroFirestorm! This guide will assist you in setting up the Photon engine. Photon is a powerful network engine and multiplayer framework, ideal for real-time multiplayer games and applications utalized in RetroFirestorm.
 
 ## License
-RetroFirestorm uses Photon under the MIT License, which is a permissive free software license. This means you are free to use, modify, and distribute the software, subject to the license terms.
+RetroFirestorm uses Photon. The game is under an MIT License, which is a permissive free software license. This means you are free to use, modify, and distribute the software, subject to the license terms.
 
 ## Setting Up Photon
 To integrate Photon into your RetroFirestorm project, follow these steps:
