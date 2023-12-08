@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.db filter=lfs diff=lfs merge=lfs -text
+Retro_Firestorm/Library/*.db filter=lfs diff=lfs merge=lfs -text
+Retro_Firestorm/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
